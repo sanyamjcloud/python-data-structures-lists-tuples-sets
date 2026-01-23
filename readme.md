@@ -1,25 +1,23 @@
-# Grade Calculator (Python)
+README.md
 
-## Project Description
-This project is a simple Grade Calculator built using Python.
-It takes marks from the user and calculates the grade based on
-predefined conditions and business rules.
+# Python Collections Demo
 
-## Technology Used
-- Python 3
-- Visual Studio Code
+## Objective
+This task demonstrates the use of Python collections including list, tuple, and set.
 
-## How It Works
-- User enters marks between 0 and 100
-- Program validates the input
-- Grade is calculated using if-elif-else conditions
-- Proper message is displayed for each grade
+## Topics Covered
+- List operations (add, remove, sort)
+- Tuple usage for fixed data
+- Set conversion to remove duplicates
+- Set operations (union, intersection, difference)
+- Iteration over collections
+- Mutable vs Immutable comparison
+- Formatted output
 
-## How to Run the Program
-Open terminal in the project folder and run:
+## Files Included
+- `collections_demo.py` – Python script demonstrating collections
+- `screenshots/` – Program execution screenshots (if any)
 
-python grade_calculator.py
-
-## Sample Output
-Enter your marks (0-100): 85  
-Grade A : Excellent performance
+## How to Run
+```bash
+python collections_demo.py
